@@ -496,12 +496,15 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 [GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
 [GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
 [GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
-1647625968486	geckodriver	INFO	Listening on 127.0.0.1:62031
-1647625971457	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Kevyn\\AppData\\Local\\Temp\\rust_mozprofile4E70Qk"
-[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
-1647625973218	Marionette	INFO	Marionette enabled
-[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
-[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+1647626075941	Marionette	INFO	Stopped listening on port 61874
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+ 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kevyn\\AppData\\Local\\Temp\\rust_mozprofile4E70Qk\\search.json.mozlz4", (void 0)))
 1647625980589	Marionette	INFO	Listening on port 62039
 1647625981406	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
@@ -509,3 +512,114 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 [GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
 [GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
 [GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1647626076533	Marionette	INFO	Stopped listening on port 62039
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1647627012059	geckodriver	INFO	Listening on 127.0.0.1:62644
+1647627015060	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Kevyn\\AppData\\Local\\Temp\\rust_mozprofileI7uQwt"
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+1647627017020	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kevyn\\AppData\\Local\\Temp\\rust_mozprofileI7uQwt\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+1647627023694	Marionette	INFO	Listening on port 62652
+1647627024142	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1647628221988	Marionette	INFO	Stopped listening on port 62652
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1647629079397	geckodriver	INFO	Listening on 127.0.0.1:63936
+1647629082421	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Kevyn\\AppData\\Local\\Temp\\rust_mozprofile7PKtJh"
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+1647629083728	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kevyn\\AppData\\Local\\Temp\\rust_mozprofile7PKtJh\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+1647629089823	Marionette	INFO	Listening on port 63944
+1647629090235	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/videojs-youtube/2.6.1/Youtube.min.js, line 1: TypeError: videojs is undefined
+JavaScript error: https://www.climatempo.com.br/dist/js/forecasttoday.bundle.min.js, line 1: TypeError: document.getElementById(...) is null
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+JavaScript warning: https://resources-rt.idx.lat/T2.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+JavaScript error: https://www.climatempo.com.br/dist/js/forecasttoday.bundle.min.js, line 1: TypeError: t is null
+JavaScript error: https://www.climatempo.com.br/dist/js/forecasttoday.bundle.min.js, line 1: TypeError: t is null
+JavaScript error: https://www.climatempo.com.br/dist/js/forecasttoday.bundle.min.js, line 1: TypeError: t is null
+JavaScript error: https://www.climatempo.com.br/dist/js/forecasttoday.bundle.min.js, line 1: TypeError: t is null
+JavaScript error: https://www.climatempo.com.br/dist/js/forecasttoday.bundle.min.js, line 1: TypeError: t is null
+JavaScript error: https://www.climatempo.com.br/dist/js/forecasttoday.bundle.min.js, line 1: TypeError: t is null
+JavaScript error: https://www.climatempo.com.br/dist/js/forecasttoday.bundle.min.js, line 1: TypeError: t is null
+JavaScript error: https://www.climatempo.com.br/dist/js/forecasttoday.bundle.min.js, line 1: TypeError: t is null
+JavaScript error: https://www.climatempo.com.br/dist/js/forecasttoday.bundle.min.js, line 1: TypeError: t is null
+JavaScript error: https://www.climatempo.com.br/dist/js/forecasttoday.bundle.min.js, line 1: TypeError: t is null
+JavaScript error: https://www.climatempo.com.br/dist/js/forecasttoday.bundle.min.js, line 1: TypeError: t is null
+JavaScript error: https://www.climatempo.com.br/dist/js/forecasttoday.bundle.min.js, line 1: TypeError: t is null
+JavaScript error: https://www.climatempo.com.br/dist/js/forecasttoday.bundle.min.js, line 1: TypeError: t is null
+JavaScript error: https://www.climatempo.com.br/dist/js/forecasttoday.bundle.min.js, line 1: TypeError: t is null
+JavaScript error: https://www.climatempo.com.br/dist/js/forecasttoday.bundle.min.js, line 1: TypeError: t is null
+JavaScript error: https://www.climatempo.com.br/dist/js/forecasttoday.bundle.min.js, line 1: TypeError: t is null
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1647633027347	Marionette	INFO	Stopped listening on port 63944
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_RemoveDynEntriesFromActiveSessionHistoryEntry) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_SynchronizeLayoutHistoryState) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+[Parent 12216, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Kevyn\AppData\Local\Temp\rust_mozprofile7PKtJh\protections.sqlite
+
+###!!! [Child][PContentChild] Error: Send(msgname=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+

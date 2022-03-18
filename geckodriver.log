@@ -1,0 +1,233 @@
+1647563973218	geckodriver	INFO	Listening on 127.0.0.1:65126
+1647563976256	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Kevyn\\AppData\\Local\\Temp\\rust_mozprofileJO7LGH"
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+1647563977642	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kevyn\\AppData\\Local\\Temp\\rust_mozprofileJO7LGH\\search.json.mozlz4", (void 0)))
+1647563983006	Marionette	INFO	Listening on port 65134
+1647563983658	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PWebSocket::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1647564051264	Marionette	INFO	Stopped listening on port 65134
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 13620, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647564053999	geckodriver	INFO	Listening on 127.0.0.1:65206
+1647564057027	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Kevyn\\AppData\\Local\\Temp\\rust_mozprofileIdyBDk"
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+1647564058216	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kevyn\\AppData\\Local\\Temp\\rust_mozprofileIdyBDk\\search.json.mozlz4", (void 0)))
+1647564063499	Marionette	INFO	Listening on port 65220
+1647564065348	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1647564097050	Marionette	INFO	Stopped listening on port 65220
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1647564169704	geckodriver	INFO	Listening on 127.0.0.1:65316
+1647564172691	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Kevyn\\AppData\\Local\\Temp\\rust_mozprofile4QOGZV"
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+1647564174393	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kevyn\\AppData\\Local\\Temp\\rust_mozprofile4QOGZV\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+1647564180747	Marionette	INFO	Listening on port 65329
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+1647564181193	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+1647564221988	Marionette	INFO	Stopped listening on port 65329
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1647565523917	geckodriver	INFO	Listening on 127.0.0.1:49443
+1647565526990	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Kevyn\\AppData\\Local\\Temp\\rust_mozprofileE5DJtw"
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+1647565528244	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kevyn\\AppData\\Local\\Temp\\rust_mozprofileE5DJtw\\search.json.mozlz4", (void 0)))
+1647565533676	Marionette	INFO	Listening on port 49451
+1647565533855	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1647566149120	Marionette	INFO	Stopped listening on port 49451
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1647566190484	geckodriver	INFO	Listening on 127.0.0.1:49770
+1647566193533	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Kevyn\\AppData\\Local\\Temp\\rust_mozprofileCtGUSt"
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+1647566196733	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kevyn\\AppData\\Local\\Temp\\rust_mozprofileCtGUSt\\search.json.mozlz4", (void 0)))
+1647566202071	Marionette	INFO	Listening on port 49778
+1647566202327	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+1647566241920	Marionette	INFO	Stopped listening on port 49778
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Kevyn\AppData\Local\Temp\rust_mozprofileCtGUSt\protections.sqlite
+1647566258965	geckodriver	INFO	Listening on 127.0.0.1:49915
+1647566262067	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Kevyn\\AppData\\Local\\Temp\\rust_mozprofile7BITMf"
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+1647566263148	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kevyn\\AppData\\Local\\Temp\\rust_mozprofile7BITMf\\search.json.mozlz4", (void 0)))
+1647566267934	Marionette	INFO	Listening on port 49925
+1647566268513	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+1647566347942	Marionette	INFO	Stopped listening on port 49925
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Kevyn\AppData\Local\Temp\rust_mozprofile7BITMf\protections.sqlite
+
+###!!! [Child][PContentChild] Error: Send(msgname=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1647566363036	geckodriver	INFO	Listening on 127.0.0.1:50069
+1647566366034	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Kevyn\\AppData\\Local\\Temp\\rust_mozprofileOuQTRx"
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+1647566367075	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kevyn\\AppData\\Local\\Temp\\rust_mozprofileOuQTRx\\search.json.mozlz4", (void 0)))
+1647566371974	Marionette	INFO	Listening on port 50077
+1647566372279	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://selenium.dunossauro.live"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://selenium.dunossauro.live"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://selenium.dunossauro.live"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://selenium.dunossauro.live"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://selenium.dunossauro.live"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1647566507146	Marionette	INFO	Stopped listening on port 50077
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PRemoteSpellcheckEngine::Reply_SetDictionaryFromList) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647566512722	geckodriver	INFO	Listening on 127.0.0.1:50197
+1647566515725	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Kevyn\\AppData\\Local\\Temp\\rust_mozprofilep3f5mc"
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+1647566516923	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kevyn\\AppData\\Local\\Temp\\rust_mozprofilep3f5mc\\search.json.mozlz4", (void 0)))
+1647566522251	Marionette	INFO	Listening on port 50205
+1647566522419	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://selenium.dunossauro.live"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://selenium.dunossauro.live"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://selenium.dunossauro.live"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://selenium.dunossauro.live"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://selenium.dunossauro.live"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1647566589893	Marionette	INFO	Stopped listening on port 50205
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647566599460	geckodriver	INFO	Listening on 127.0.0.1:50378
+1647566602500	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Kevyn\\AppData\\Local\\Temp\\rust_mozprofileL5CsPQ"
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+1647566603609	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kevyn\\AppData\\Local\\Temp\\rust_mozprofileL5CsPQ\\search.json.mozlz4", (void 0)))
+1647566609337	Marionette	INFO	Listening on port 50386
+1647566609883	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://selenium.dunossauro.live"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://selenium.dunossauro.live"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://selenium.dunossauro.live"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://selenium.dunossauro.live"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://selenium.dunossauro.live"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1647569642566	Marionette	INFO	Stopped listening on port 50386
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1647570678828	geckodriver	INFO	Listening on 127.0.0.1:52171
+1647570681908	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Kevyn\\AppData\\Local\\Temp\\rust_mozprofileEssJuF"
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+1647570683429	Marionette	INFO	Marionette enabled
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kevyn\\AppData\\Local\\Temp\\rust_mozprofileEssJuF\\search.json.mozlz4", (void 0)))
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+1647570689835	Marionette	INFO	Listening on port 52179
+1647570690426	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.
+[GFX1-]: Mismatched driver versions between the registry 8.15.10.2697 and DLL(s) 8.14.10.2697,  reported.

@@ -1,3 +1,8 @@
+# TODO: tirar o 'segunda' que foi feito para teste
+# TODO: construir a API em cima do arquivo json e mandá-lo para uma database
+# TODO: considerar os outros restaurantes e os possíveis erros, visto que o `splitado` ta muito cornojob
+# TODO: ainda considerar fazer isso sem selenium
+
 from tracemalloc import stop
 from selenium.webdriver import Firefox, Chrome
 from time import sleep
